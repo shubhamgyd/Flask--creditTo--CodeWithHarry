@@ -81,6 +81,7 @@ That's it! if you want to display variable in h1 tag then it would
 be:
 <h1>Hi I am {{ variable_name }}!</h1>
 
+The complete code is given below
 """
 
 from flask import Flask, render_template
